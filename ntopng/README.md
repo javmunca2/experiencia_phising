@@ -9,6 +9,6 @@ rm /usr/share/ntopng/httpdocs/bootstrap
 ln -s /usr/share/javascript/bootstrap5 /usr/share/ntopng/httpdocs/bootstrap
 ```
 
-Después instalar base de datos de geolocalización siguiente los pasos de:
+Después instalar base de datos de geolocalización siguiendo los pasos de:
 <https://github.com/ntop/ntopng/blob/dev/doc/README.geolocation.md>
 
