@@ -6,9 +6,6 @@ February 2023
 
 ## General information
 
-Este repositorio incluye parte del material utilizado para la realización de una
-experiencia de formación y educación básica en ciberseguridad desarrollada en el marco de las jornadas de puertas abiertas de la Escuela Técnica superior de Ingenieros de la Universidad de Sevilla para alumnos de bachillerato.
-
 This repository includes some of the material used to conduct a basic cybersecurity training and education experience developed as part of the "Jornadas de Puertas Abiertas" for high school students at the Higher Technical School of Engineering (ETSi) of the University of Seville (<https://www.us.es/>).
 
 This experience is detailed in more depth in a pending paper.
